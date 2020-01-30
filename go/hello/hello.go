@@ -6,5 +6,5 @@ func Hello() string {
 }
 
 func HelloNew() string {
-	return "Hello, new world. gmt2 v130"
+	return "Hello, new world. gmt2 v140"
 }
